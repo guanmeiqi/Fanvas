@@ -9,6 +9,8 @@ Fanvas是Flash和Canvas的完美结合，可以把swf（包括矢量和位图）
 
 嘿嘿~~~让美术妹子也搭上H5的快车。
 
+最新版本请直接到官方获取：https://github.com/TencentOpen/Fanvas
+
 
 Fanvas的技术难点？
 ------------------------------------------
